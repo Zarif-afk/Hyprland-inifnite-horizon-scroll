@@ -1,6 +1,6 @@
 # Hyprland scrolling notes
 
-This is the setup that currently gives you Niri-like infinite scrolling in Hyprland, including the maximize case and two-monitor edge handoff.
+This is the setup that currently gives me Niri-like infinite scrolling in Hyprland, including the maximize case and two-monitor edge handoff.
 
 ## Working files
 
@@ -67,7 +67,7 @@ That hybrid behavior is what makes:
 - the scroll strip move normally inside the workspace
 - the edge still hand off to the next monitor when needed
 
-## What broke during the update
+## What broke during after one hyprland update
 
 After the Hyprland update, plain `movefocus` no longer drove the scrolling view the way it used to.
 

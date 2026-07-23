@@ -68,7 +68,7 @@ That hybrid behavior is what makes:
 - the scroll strip move normally inside the workspace
 - the edge still hand off to the next monitor when needed
 
-## What broke during the update
+## Example of things breaking sometimes during OS and hyprland update
 
 After the Hyprland update, plain `movefocus` no longer drove the scrolling view the way it used to.
 
